@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gousiya/static/css/main.f855e6bc.css",
+    "main.js": "/gousiya/static/js/main.5730b516.js",
+    "static/js/453.b0205e81.chunk.js": "/gousiya/static/js/453.b0205e81.chunk.js",
+    "static/media/logo.svg": "/gousiya/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gousiya/index.html",
+    "main.f855e6bc.css.map": "/gousiya/static/css/main.f855e6bc.css.map",
+    "main.5730b516.js.map": "/gousiya/static/js/main.5730b516.js.map",
+    "453.b0205e81.chunk.js.map": "/gousiya/static/js/453.b0205e81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5730b516.js"
+  ]
+}
